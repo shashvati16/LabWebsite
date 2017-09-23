@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LabWebsite", "..\..\WebSites\LabWebsite\", "{C29483BD-18E6-4A0F-9D32-B71486506EFC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55736"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\LabWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55736\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55736"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\LabWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55736\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55736"
+		SlnRelativePath = "..\..\WebSites\LabWebsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{609F9B78-354B-403F-834A-4DF2241D32C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29483BD-18E6-4A0F-9D32-B71486506EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29483BD-18E6-4A0F-9D32-B71486506EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C99202-92A7-4F4B-990E-B64EE8A01A81}
+	EndGlobalSection
+EndGlobal
